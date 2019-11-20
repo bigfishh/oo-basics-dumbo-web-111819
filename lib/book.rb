@@ -4,6 +4,7 @@ class Book
     @title = title
   end
   def turn_page 
+    "Flipping the page...wow, you readfast!"
   end 
 end
 
